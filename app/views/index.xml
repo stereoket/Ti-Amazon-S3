@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="logo" />
+		<ImageView id="mainImage"></ImageView>
+		<ProgressBar id="ind"></ProgressBar>
+		<Label id="startLabel">Tap To start</Label>
+	</Window>
+</Alloy>
